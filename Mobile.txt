@@ -1,6 +1,7 @@
 Name : One Plus
 Version : 12.2
 RAM : 8GB
+version : 12.3
 Storage : 64GB
 Camera : 64 mp
   version:15.0
