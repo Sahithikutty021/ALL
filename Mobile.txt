@@ -6,4 +6,5 @@ Storage : 64GB
 Camera : 64 mp
 version:15.0
 version : 50
+version : 100.0
 Version : 13.0
