@@ -4,6 +4,6 @@ RAM : 8GB
 version : 12.3
 Storage : 64GB
 Camera : 64 mp
-  version:15.0
-
+version:15.0
+version : 50
 Version : 13.0
