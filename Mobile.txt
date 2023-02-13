@@ -1,0 +1,4 @@
+Name : One Plus
+Version : 12
+RAM : 8GB
+Storage : 64GB
